@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "Palace Hand DB";
-    src: url('../font/PAHDB.TTF');
+    src: url('./font/PAHDB.TTF');
 }
 
 body{
